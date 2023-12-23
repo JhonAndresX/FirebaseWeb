@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250684251871",
+    "project_id": "movilesauto-6ac2c",
+    "storage_bucket": "movilesauto-6ac2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250684251871:android:8587689edd55108af4136a",
+        "android_client_info": {
+          "package_name": "com.example.movilesfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zSRsbSphInk3RTIyLF1LuhzpHmvaP2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
